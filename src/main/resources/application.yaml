@@ -1,0 +1,8 @@
+executor:
+  service:
+    enable: true
+    pools:
+      test1:
+        core-pool-size: 2
+      test2:
+        core-pool-size: 3
